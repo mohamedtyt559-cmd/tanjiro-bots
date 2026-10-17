@@ -1,0 +1,15 @@
+{
+  "name": "tanjiro-empire-ultimate",
+  "version": "1.0.0",
+  "description": "Tanjiro Empire WhatsApp Bot Ultimate 2026",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.19.0",
+    "string-similarity": "^4.0.4",
+    "yt-search": "^2.12.1"
+  }
+}
